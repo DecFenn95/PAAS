@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SwagThunder\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SwagThunder\\.nuget\\packages"
+    ]
+  }
+}
