@@ -6,7 +6,7 @@ Modern Pun Delivery Platform.
 
 ## API 
 
-Content will be returned in a JSON format
+NOTE: _Content will be returned in a JSON format_
 
 ### Operations
 
@@ -14,6 +14,15 @@ Content will be returned in a JSON format
 
 - Will return a random pun
 
+### Example Pun Payload
+
+```json
+{
+  "pun": "I broke my finger today, but on the other hand I was completely fine"
+}
+```
+
+---
 
 ## Potential Future Features
 
